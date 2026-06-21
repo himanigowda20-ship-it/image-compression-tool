@@ -23,3 +23,7 @@ A Python-based image compression tool built using Gradio and Pillow.
 
 ## Author
 Himani R
+ Colab notebook detected. To show errors in colab notebook, set debug=True in launch()
+* Running on public URL: https://feadf1575a57846afe.gradio.live
+
+This share link expires in 1 week. For free permanent hosting and GPU upgrades, run `gradio deploy` from the terminal in the working directory to deploy to Hugging Face Spaces (https://huggingface.co/spaces)
